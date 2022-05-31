@@ -1,18 +1,21 @@
 # React-Weather-App
-##React ile Hava Durumu Projesi
 
-Axios API ile hava durumu bilgileri www.openweathermap.org adresinden çekildi.
+# React ile Hava Durumu Projesi
 
-Proje'de Context API kullanıldı.
+-Axios API ile hava durumu bilgileri www.openweathermap.org adresinden çekildi.
+
+-Proje'de Context API kullanıldı.
 
 
-##Özellikler
+# Özellikler
 
-Dropdown aracılığıyla Türkiye'de bulunan illerin seçimi.
+-Dropdown aracılığıyla Türkiye'de bulunan illerin seçimi.
 
-Context API veri aktarımı.
+-Context API veri aktarımı.
 
-Bir haftalık hava durum verisi.
+-Bir haftalık hava durum verisi.
+
+# Screenshots
 
 
 
