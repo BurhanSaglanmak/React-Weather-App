@@ -17,7 +17,8 @@
 
 # Screenshots
 
-https://github.com/BurhanSaglanmak/React-Weather-App/blob/main/hava-durumu-app/Screenshots.png
+
+![Screenshots](https://user-images.githubusercontent.com/104764065/171158049-7a4a8b32-116b-4cd4-92c3-951c8be06ac9.png)
 
 
 
